@@ -6,9 +6,11 @@
 package konversiwaktu;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
+
+
 /**
  *
- * @author Multikom
+ * @author ajengnur
  */
 public class KonversiWaktu {
 
